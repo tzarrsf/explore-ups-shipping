@@ -4,7 +4,7 @@
  *                      Salesforce Partner Learning Camp course "B2B Commerce: Developer Essentials" activity "Scripted Import." You can run this in an
  *                      Execute Anonymous context after setting the CONSTANTS.
  * @author            : Tom Zarr
- * @group             : Salesforce Commerce Partner Delivery Success (2024)
+ * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 03-22-2024
  * @last modified by  : Tom Zarr
 **/

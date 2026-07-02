@@ -6,7 +6,6 @@
  *                      To find out more about Code-It-Forward please consult these links:
  *                      https://sfdc.co/CodeItForwardCharter
  *                      https://sfdc.co/CodeItForwardRepository
- *                      https://sfdc.co/CodeItForwardRegistration
  * @group             : Salesforce Commerce Partner Delivery Success (2026)
  * @last modified on  : 01-24-2026
  * @last modified by  : Tom Zarr

@@ -1,7 +1,7 @@
 /**
  * @description       : This code... [Fill in the rest!]
  * @author            : Tom Zarr
- * @group             : Salesforce Commerce Partner Delivery Success (2024)
+ * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 01-23-2026
  * @last modified by  : Tom Zarr
 **/

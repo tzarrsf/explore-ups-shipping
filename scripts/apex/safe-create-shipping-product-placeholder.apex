@@ -4,7 +4,7 @@
  *                      the Salesforce Partner Learning Camp course "B2B Commerce: Developer Essentials" activity "Configure a Cart
  *                      Orchestrator."
  * @author            : Tom Zarr
- * @group             : Salesforce Commerce Partner Delivery Success (2024)
+ * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 03-22-2024
  * @last modified by  : Tom Zarr
 **/

@@ -6,7 +6,7 @@
  *                      NOTE: This script assumes the TSO stores carried down for a particular partner workshop. Be sure to adjust the
  *                      "storeNames" variable appropriately.
  * @author            : Tom Zarr
- * @group             : Salesforce Commerce Partner Delivery Success (2024)
+ * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 12-18-2024
  * @last modified by  : Tom Zarr
 **/

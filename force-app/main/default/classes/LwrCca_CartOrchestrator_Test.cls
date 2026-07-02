@@ -2,7 +2,7 @@
  * @description       : This code is a simple unit test for the CartOrchestrator based on the example provided here:
  *                      https://github.com/forcedotcom/commerce-extensibility/blob/releases/248/commerce/domain/orchestrators/classes/CartCalculateSampleUnitTest.cls
  * @author            : Tom Zarr
- * @group             : Salesforce Commerce Partner Delivery Success (2024)
+ * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 01-24-2026
  * @last modified by  : Tom Zarr
 **/

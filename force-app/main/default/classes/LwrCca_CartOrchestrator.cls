@@ -12,7 +12,7 @@
  *                      6. Calculates taxes for select delivery method operation.
  *
  * @author            : Tom Zarr
- * @group             : Salesforce Commerce Partner Delivery Success (2024)
+ * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 01-24-2026
  * @last modified by  : Tom Zarr
 **/
