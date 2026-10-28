@@ -25,8 +25,6 @@ public class LwrCca_ShippingDetailsTest {
         List<LwrCca_ShippingMetaData> shipproviderList = new List<LwrCca_ShippingMetaData>();
         String currentLocale = UserInfo.getlocale();
         LwrCca_ShippingMetaData shipmeta = new LwrCca_ShippingMetaData();
-        Shipping_Provider__mdt testShipProvider =[Select id from Shipping_Provider__mdt where Impl_Class__c = 'LwrCca_ShippingInternalProvider' LIMIT 1];
-        shipmeta.id = testShipProvider.Id;
         shipmeta.maxPackageWeight= 100.90;
         shipmeta.minPackageWeight = 10.89;
         shipmeta.accountNumber ='AB56';

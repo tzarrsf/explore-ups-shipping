@@ -1,5 +1,8 @@
 /**
- * @description       : This code... [Fill in the rest!]
+ * @description       : Concrete shipping provider that calls the UPS Rating API. Extends
+ *                      LwrCca_AbstractShippingProvider to serialize the rate request body from
+ *                      Shipping_Provider__mdt configuration and parse the rated shipment response
+ *                      into a map of service codes to LwrCca_ShippingProviderResponse objects.
  * @author            : Tom Zarr
  * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 12-15-2024

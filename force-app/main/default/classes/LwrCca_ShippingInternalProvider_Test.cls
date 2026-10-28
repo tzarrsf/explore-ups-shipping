@@ -1,5 +1,6 @@
 /**
- * @description       : This code... [Fill in the rest!]
+ * @description       : Unit tests for LwrCca_ShippingInternalProvider covering rate retrieval,
+ *                      response parsing, and request body preparation against a WebStore test fixture.
  * @author            : Tom Zarr
  * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 01-24-2026
@@ -71,8 +72,6 @@ public class LwrCca_ShippingInternalProvider_Test {
         shipProvider.shippingMetaData = shipmeta;
         shipProvider.getData('Test');
         shipProvider.addData('Test', webCart);
-        Shipping_Provider__mdt testShipProvider =[Select id from Shipping_Provider__mdt where Impl_Class__c = 'LwrCca_ShippingInternalProvider' LIMIT 1];
-        shipmeta.id = testShipProvider.Id;
         shipmeta.maxPackageWeight= 100.90;
         shipmeta.minPackageWeight = 10.89;
         shipmeta.accountNumber ='AB56';

@@ -1,5 +1,7 @@
 /**
- * @description       : This code... [Fill in the rest!]
+ * @description       : Flat-rate shipping provider that reads Internal_Shipping_Rate__mdt records
+ *                      instead of calling an external API. Extends LwrCca_AbstractShippingProvider
+ *                      and returns matching rate records based on the cart's total weight.
  * @author            : Tom Zarr
  * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 01-24-2026

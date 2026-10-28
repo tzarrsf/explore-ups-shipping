@@ -46,8 +46,7 @@ global class LwrCca_CartOrchestrator extends CartExtension.CartCalculate
         boolean runInventory = buyerActions.isCheckoutStarted();
         boolean runShipping = buyerActions.isDeliveryGroupChanged();
         boolean runPostShipping = buyerActions.isDeliveryGroupChanged() || buyerActions.isDeliveryMethodSelected();
-        boolean runTaxes = buyerActions.isCartItemChanged() || buyerActions.isCheckoutStarted() || buyerActions.isDeliveryGroupChanged() || buyerActions.isDeliveryMethodSelected();
-        //boolean runTaxes = buyerActions.isDeliveryGroupChanged() || buyerActions.isDeliveryMethodSelected();
+        boolean runTaxes = buyerActions.isDeliveryGroupChanged() || buyerActions.isDeliveryMethodSelected();
 
         // OptionalBuyerActionDetails can be used to optimize the various calculators that are invoked
         CartExtension.CartCalculateCalculatorRequest calculatorRequest = new CartExtension.CartCalculateCalculatorRequest(cart, request.getOptionalBuyerActionDetails());

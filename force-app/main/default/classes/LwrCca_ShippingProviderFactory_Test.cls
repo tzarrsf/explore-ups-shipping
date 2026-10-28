@@ -1,5 +1,7 @@
 /**
- * @description       : This code... [Fill in the rest!]
+ * @description       : Unit tests for LwrCca_ShippingProviderFactory verifying that the factory
+ *                      instantiates the correct LwrCca_AbstractShippingProvider subclass from
+ *                      the Impl_Class__c value on a Shipping_Provider__mdt record.
  * @author            : Tom Zarr
  * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 01-23-2026

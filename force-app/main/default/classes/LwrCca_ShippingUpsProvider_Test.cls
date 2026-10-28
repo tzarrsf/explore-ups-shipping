@@ -1,5 +1,6 @@
 /**
- * @description       : This code... [Fill in the rest!]
+ * @description       : Unit tests for LwrCca_ShippingUpsProvider covering request body preparation
+ *                      and response parsing across UPS-formatted JSON payloads.
  * @author            : Tom Zarr
  * @group             : Salesforce Commerce Partner Enablement Success
  * @last modified on  : 12-15-2024
